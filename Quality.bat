@@ -1,0 +1,1 @@
+echo "Quality was success"
